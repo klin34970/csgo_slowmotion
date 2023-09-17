@@ -1,0 +1,29 @@
+﻿//**********************************************  Valid Colors	***********************************************
+
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+
+//*************************************************************************************************************
+
+
+
+"Phrases"
+
+{
+
+/******************* MESSAGE CMD *******************/
+
+	"Start Slowmotion"
+
+	{
+
+	"#format"		"{1:s},{2:i},{3:i}"
+
+    "fr"			"[{GREEN}SLOWMOTION{NORMAL}] {BLUE}{1}{NORMAL}, realise un combo de {RED}{2} HS{NORMAL} et nous offres {RED}{3}s{NORMAL} en slowmotion."
+
+	"en"			"[{GREEN}SLOWMOTION{NORMAL}] {BLUE}{1}{NORMAL}, make {RED}{2} HS{NORMAL} combo and is offering us {RED}{3}s{NORMAL} in slowmotion."
+
+	}
+
+/******************* MESSAGE CMD *******************/
+
+}
